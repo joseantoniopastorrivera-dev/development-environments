@@ -3,11 +3,11 @@
 Prácticas organizadas por Resultado de Aprendizaje (RA). Muchas capturas (`.png`) de documentación.
 
 ## Estructura
-- `RA2-Instalacion-Configuracion-y-Automatizacion-IDEs/` — IDEs; `Mejora Hola Mundo/`.
-- `RA3-Verificacion-Funcionamiento-Pruebas-Depuracion/` — proyecto VS Code Java con `src/` y `lib/` (JUnit).
-- `RA4a-Control-de-Versiones-Git-y-GitHub/` — prácticas de Git.
-- `RA4b-Proyecto-Fenix-Refactorizacion/` — refactorización de código limpio (con `.github/`).
-- `RA5a-UML-a-Codigo/`, `RA5b-Codigo-a-UML/` — ingeniería directa e inversa.
+- `ra2-instalacion-configuracion-y-automatizacion-ides/` — IDEs; `mejora-hola-mundo/`.
+- `ra3-verificacion-funcionamiento-pruebas-depuracion/` — proyecto VS Code Java con `src/` y `lib/` (JUnit).
+- `ra4a-control-de-versiones-git-y-github/` — prácticas de Git.
+- `ra4b-proyecto-fenix-refactorizacion/` — refactorización de código limpio (con `.github/`).
+- `ra5a-uml-a-codigo/`, `ra5b-codigo-a-uml/` — ingeniería directa e inversa.
 - `RA6.2*` secuencia, `RA6.3*` actividades, `RA6.4*` estados — diagramas PlantUML (`.puml`).
 
 ## Herramientas
