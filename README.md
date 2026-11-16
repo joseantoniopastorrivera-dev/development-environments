@@ -25,5 +25,5 @@ El contenido se organiza de manera modular por Resultados de Aprendizaje (RA) y 
 
 ## 👥 Autores y Colaboradores
 
-* **Autor principal:** José Antonio Pastor Rivera (`joseantoniopastorrivera-creator`)
+* **Autor principal:** José Antonio Pastor Rivera (`joseantoniopastorrivera-dev`)
 * **Simulación académica de rol/colaborador:** TawnySwine (utilizado para pruebas de control de versiones y flujos de trabajo en prácticas del módulo).
