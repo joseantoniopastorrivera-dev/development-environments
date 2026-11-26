@@ -1,2 +1,5 @@
 # Guías de defensa: material personal, nunca se suben a GitHub
 guia-defensa-*.md
+
+# Maven build output (the RA4b Javadoc report under target/reports/apidocs stays tracked as evidence)
+target/
