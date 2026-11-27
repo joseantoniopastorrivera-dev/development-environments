@@ -23,7 +23,7 @@ Prácticas organizadas por Resultado de Aprendizaje (RA). Muchas capturas (`.png
 - `ra4a-control-de-versiones-git-y-github/` — prácticas de Git.
 - `ra4b-proyecto-fenix-refactorizacion/` — refactorización de código limpio (con `.github/`).
 - `ra5a-uml-a-codigo/`, `ra5b-codigo-a-uml/` — ingeniería directa e inversa.
-- `RA6.2*` secuencia, `RA6.3*` actividades, `RA6.4*` estados — diagramas PlantUML (`.puml`).
+- `ra6-1a/1b` casos de uso, `ra6-2a/2b` secuencia, `ra6-3a/3b` actividades, `ra6-4a/4b` estados — diagramas PlantUML (`.puml`).
 
 ## Herramientas
 - Java en VS Code (Extension Pack for Java); pruebas con JUnit desde `lib/`.
